@@ -1,1 +1,8 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Application Started");
+
+PrintGreeting();
+
+void PrintGreeting()
+{
+    Console.WriteLine("Welcome!");
+}
