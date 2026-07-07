@@ -1,4 +1,5 @@
 ﻿Console.WriteLine("Application Started");
+Console.WriteLine("Version 1.0");
 
 PrintGreeting();
 
