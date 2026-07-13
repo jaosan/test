@@ -1,0 +1,14 @@
+# CODEOWNERS
+#
+# This file defines who is automatically requested to review pull requests.
+# Rules are matched top to bottom. The last matching rule takes precedence.
+#
+# Syntax:  <path pattern>  <@github-username or @org/team>
+#
+# Documentation: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# -----------------------------------------------------------------------
+# Default owners — required reviewers for all pull requests
+# -----------------------------------------------------------------------
+
+*   @jansan
