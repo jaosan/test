@@ -7,5 +7,5 @@ PrintGreeting();
 
 void PrintGreeting()
 {
-    Console.WriteLine("Welcome!");
+    Console.WriteLine("Welcome users!");
 }
